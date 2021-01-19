@@ -1,4 +1,6 @@
 # This is a large heading
+[![Latest Stable Version](https://poser.pugx.org/nadar/aspsms/v/stable)](https://packagist.org/packages/nadar/aspsms)
+
 
 ## This is a smaller heading
 
